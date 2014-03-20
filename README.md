@@ -1,6 +1,8 @@
 OneTool Documentation
 =====================
 
+-----
+
 ## Table of Contents
 
 - [OneTool LogManagement](#onetool-logmanagement)
@@ -10,7 +12,9 @@ OneTool Documentation
        - [OneTool Monitoring Agent for Mac](#onetool-monitoring-agent-for-mac)
        - [OneTool Monitoring Agent for Windows](#onetool-monitoring-agent-for-windows)
     - [OneTool Monitoring Server](#onetool-monitoring-server)
+- [OneTool Wiki](#onetool-wiki)
 
+-----
 
 ## OneTool LogManagement
 
@@ -37,7 +41,6 @@ Features:
   * Add/Modify/Remove Page(s)
   * Add/Modify/Remove Folder(s)
   * Rights on Folders and Pages: Public/Limited to Group(s)/Limited to User(s)
-
   * [MarkDown](http://daringfireball.net/projects/markdown/) syntax
 
 
