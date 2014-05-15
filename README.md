@@ -25,6 +25,12 @@ OneTool Documentation
 
 Monitoring Agents for Linux, Mac & Windows
 
+```
+Hardware.CPU.Information
+System.Domainname
+System.Hostname
+```
+
 #### OneTool Monitoring Agent for Linux
 
 #### OneTool Monitoring Agent for Mac
