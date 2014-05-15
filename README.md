@@ -43,6 +43,15 @@ System.Load
 
 #### OneTool Monitoring Agent for Windows
 
+```
+Hardware.CPU.Information
+Hardware.Printer.Default
+System.DiskUsage
+System.Domainname
+System.Hostname
+System.Software.InstalledList
+```
+
 ### OneTool Monitoring Server
 
 
