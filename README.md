@@ -54,6 +54,9 @@ System.Software.InstalledList
 
 ### OneTool Monitoring Server
 
+Features:
+  
+  * Data/Graph Comparison between days/weeks/months/years (2 data sets on the same graph)
 
 ## OneTool Wiki
 
